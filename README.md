@@ -3,7 +3,7 @@ Python code to determine connected components given a textfile
 Given a text file: 
  - First line being how many vertices
  - Second being how many edges
- - The rest being paired numbers representing edges between them, 
+ - The rest being paired numbers representing edges between them. \\
 This Python program prints out all connected components existing from it.
 
 Example:
