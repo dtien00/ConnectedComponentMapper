@@ -28,4 +28,4 @@ Connected Component # 2 :
 Connected Component # 3 :   
  [7]  
  
- 
+ It is noted with the current version, this takes into account '\n' characters, at every row except the last one, which can be easily modified depending on the situation.
