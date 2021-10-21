@@ -6,7 +6,7 @@ Given a text file:
  - The rest being paired numbers representing edges between them.  
 This Python program prints out all connected components existing from it.
 
-Example:
+Example:  
 9  
 10  
 1 2  
